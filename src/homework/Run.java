@@ -1,5 +1,9 @@
 package homework;
 
+import homework.card.Card;
+import homework.card.CheckingCards;
+import homework.client.ClientInfo;
+
 import java.util.Scanner;
 
 public class Run {

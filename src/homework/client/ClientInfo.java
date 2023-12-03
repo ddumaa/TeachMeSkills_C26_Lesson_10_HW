@@ -1,4 +1,6 @@
-package homework;
+package homework.client;
+
+import homework.card.Card;
 
 public class ClientInfo {
     String firstName;

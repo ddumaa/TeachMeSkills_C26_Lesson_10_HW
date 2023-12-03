@@ -1,4 +1,6 @@
-package homework;
+package homework.card;
+
+import homework.client.ClientInfo;
 
 public class CheckingCards {
    public static void checkingCardsMethod (int id1, int id2){

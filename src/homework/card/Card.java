@@ -1,4 +1,4 @@
-package homework;
+package homework.card;
 
 import java.util.Objects;
 
