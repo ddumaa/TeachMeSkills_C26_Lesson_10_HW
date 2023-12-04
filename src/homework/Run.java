@@ -12,6 +12,6 @@ public class Run {
         Card card_4 = new Card(127, "1134_5678_000", 124.40);
         ClientInfo client1 = new ClientInfo("Anton", "Miguyan");
         client1.cards = new Card[]{card_1, card_2, card_3, card_4};
-        CheckingCards.checkingCardsMethod();
+        CheckingCards.checkingCardsMethod(client1.cards);
     }
 }
