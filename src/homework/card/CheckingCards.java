@@ -13,7 +13,7 @@ public class CheckingCards {
             }
             if (i == cards.length - 1) {
                 if (count > 0) {
-                    System.out.println("Same cards: " + count);
+                    System.out.println("Same cards: " + count*2);
                 } else {
                     System.out.println("There are no identical cards");
                 }
