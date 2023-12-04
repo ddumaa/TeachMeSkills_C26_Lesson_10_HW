@@ -25,6 +25,4 @@ public class Card {
         this.cardNumber = cardNumber;
         this.money = money;
     }
-
-
 }
